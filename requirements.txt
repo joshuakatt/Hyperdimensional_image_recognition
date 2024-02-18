@@ -1,0 +1,7 @@
+pandas
+numpy
+python-mnist
+scikit-learn
+MNIST
+keras
+tensorflow
